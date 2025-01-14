@@ -23,7 +23,7 @@ public class Fabula extends Escrito {
 		return this.getOrigen() + "\n" + this.getTitulo() + "\n" + this.getAutor() + "\n" + this.getPaginas() + "\n" + this.ensenanzas;
 	}
 	
-	public String getEnsenanzas() {
+	public String getEnsenanza() {
 		return ensenanzas;
 	}
 	
